@@ -10,7 +10,7 @@ Associated paper:
 
 DESCRIPTIVE INFORMATION
 Brief description of dataset:
-Topics [drawn from:]:
+Topics [drawn from: https://midasnetwork.us/ontology/entities-tree-classes.html]:
 Geographic Regions Covered:
 Beginning of data collection date:
 End of data collection date [or of dataset publication/upkeep]:
