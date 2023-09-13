@@ -1,0 +1,30 @@
+##Template for recommended metadata elements to increase discoverability of infectious disease modeling data
+
+## Multiple entries for each field can be separated with semicolors (;), or by repeating the field on a new line. All are optional but Basic Information is strongly encouraged.
+
+BASIC INFORMATION
+Dataset title [English]:
+Dataset title [other languages]:
+Location of dataset [URL, DOI]:
+Creators [firstname lastname]:
+Contact information [if desired]:
+Associated paper:
+
+DESCRIPTIVE INFORMATION
+Brief description of dataset:
+Topics [drawn from:]:
+Geographic Regions Covered:
+Beginning of data collection date:
+End of data collection date [or of dataset publication/upkeep]:
+
+ID INFORMATION
+Pathogen species:
+Disease: 
+Host species:
+Biological scale [list]:
+Geographical Scope [definition/list]:
+Geographical Resolution [definition/list]:
+
+ADMINISTRATIVE INFORMATION
+License:
+Version number:
