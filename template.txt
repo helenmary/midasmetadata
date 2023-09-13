@@ -1,0 +1,10 @@
+Dataset title [English]:
+Dataset title [other languages]:
+Creators [firstname lastname]:
+Geographic Regions Covered:
+Topics:
+Pathogens:
+Date range covered [approximate]:
+License:
+Associated paper:
+Version number:
